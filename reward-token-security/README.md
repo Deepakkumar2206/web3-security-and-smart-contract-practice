@@ -28,3 +28,4 @@ Mocha / Chai
 ## Purpose
 
 This project demonstrates how to design secure reward distribution logic for Web3 gaming or DeFi applications.
+Note: This project originated from a smart contract security assessment and was extended with additional validation checks and tests for portfolio purposes.
